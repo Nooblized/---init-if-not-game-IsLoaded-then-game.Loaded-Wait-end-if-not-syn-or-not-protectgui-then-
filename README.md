@@ -1,0 +1,1 @@
+# ---init-if-not-game-IsLoaded-then-game.Loaded-Wait-end-if-not-syn-or-not-protectgui-then-
